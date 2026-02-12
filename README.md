@@ -15,19 +15,6 @@ The project is organized by concept, with specific files targeting different Jav
 * **`Car.java` & `Student.java`**: Model classes used to demonstrate real-world object blueprints.
 
 ---
-## 📂 File Structure
-OOPS/
-├── Constructor/            (Folder)
-│   ├── Main.java           <-- Driver class for constructors
-│   └── Student.java        <-- Blueprints/Object logic
-├── Abstraction.java        <-- Abstract classes/Interfaces
-├── Car.java                <-- Likely used for Inheritance/Objects
-├── Inheritance.java        <-- Parent-Child relationship logic
-├── Main.java               <-- Global entry point
-├── OopsInfo.java           <-- General notes or definitions
-├── OverRiding.java         <-- Polymorphism (Dynamic Method Dispatch)
-├── Superinfo.java          <-- Using 'super' keyword
-└── ToStringg.java          <-- Overriding Object.toString()
 
 ## 🛠 Concepts Covered
 
